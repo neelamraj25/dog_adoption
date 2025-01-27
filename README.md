@@ -1,4 +1,4 @@
-# pet_adoption_app
+# pet adoption app
 
 A new Flutter project.
 
